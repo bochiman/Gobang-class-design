@@ -1,3 +1,3 @@
-# Gobang-class-design
+# 五子棋课程大作业
 # 环境配置
 # 更新日志
