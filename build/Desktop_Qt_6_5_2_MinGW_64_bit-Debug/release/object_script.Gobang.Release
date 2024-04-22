@@ -1,0 +1,14 @@
+release/checkbrd.o
+release/checkbrd_ai.o
+release/confirm_exit.o
+release/main.o
+release/start.o
+release/start1.o
+release/start2.o
+release/qrc_image.o
+release/moc_checkbrd.o
+release/moc_checkbrd_ai.o
+release/moc_confirm_exit.o
+release/moc_start.o
+release/moc_start1.o
+release/moc_start2.o

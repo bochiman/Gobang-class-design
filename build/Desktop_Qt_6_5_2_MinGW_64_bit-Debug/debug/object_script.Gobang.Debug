@@ -1,0 +1,14 @@
+debug/checkbrd.o
+debug/checkbrd_ai.o
+debug/confirm_exit.o
+debug/main.o
+debug/start.o
+debug/start1.o
+debug/start2.o
+debug/qrc_image.o
+debug/moc_checkbrd.o
+debug/moc_checkbrd_ai.o
+debug/moc_confirm_exit.o
+debug/moc_start.o
+debug/moc_start1.o
+debug/moc_start2.o

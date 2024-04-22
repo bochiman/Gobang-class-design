@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/backGround2.jpg</file>
+        <file>image/black.png</file>
+        <file>image/chessBoard.jpg</file>
+        <file>image/white.png</file>
+        <file>image/1.jpg</file>
+        <file>image/2.jpg</file>
+        <file>image/paimeng1.jpg</file>
+        <file>image/ask.png</file>
+        <file>image/exit.png</file>
+        <file>image/start2.jpg</file>
+        <file>image/genshin.mp4</file>
+        <file>image/genshin2.mp4</file>
+    </qresource>
+</RCC>
